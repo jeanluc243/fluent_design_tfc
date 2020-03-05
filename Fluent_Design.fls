@@ -49,10 +49,11 @@ INPUT /home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.out
 INPUT /home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.out
 OUTPUT /home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.out
 OUTPUT /home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.pdf
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.aux
 INPUT /home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.out
 INPUT /home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.out
-INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
