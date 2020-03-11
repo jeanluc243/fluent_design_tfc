@@ -1,6 +1,14 @@
-\documentclass[a4paper,11pt]{report}
+\documentclass[a4paper,12pt]{report}
+
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
 
 \usepackage{graphicx}
+\graphicspath{ {figures/} }
+\usepackage{array}
 
 \usepackage{hyperref}
 
@@ -37,7 +45,7 @@
         \begin{center}
             
             \rule[10pt]{\textwidth}{1pt}
-            {\huge IMPLÉMENTATION DU FLUENT DESIGN AVEC FLUTTER }
+            {\LARGE IMPLÉMENTATION DU FLUENT DESIGN AVEC FLUTTER }
             \bigskip
             % \hspace{10pt}
             \rule[10pt]{\textwidth}{1pt}
@@ -56,7 +64,7 @@
         \begin{flushright}
             \textbf{\em{ {\small Par : KABULU MBOLELA Jean Luc}}}
             \\
-            \textbf{\em{ \small{Option : Génie Logiciel Systèmes Informatiques}}}
+            \textbf{\em{ \small{Option : Génie Logiciel }}}
         \end{flushright}
         \hspace{5pt}
         \begin{flushright}
@@ -71,5 +79,148 @@
         \end{center}
 
     \end{titlepage}
+
+    \newpage
+    
+    \begin{center}
+        \Huge{IMPLÉMENTATION DU FLUENT DESIGN AVEC FLUTTER}
+        \\
+        \vspace{15pt}
+        \large{KABULU MBOLELA Jean Luc}
+        \\
+        \vspace{10pt}
+        \large{Génie Logiciel}
+        \\
+        \large{ESIS 2019-2020}
+    \end{center}
+
+    \newpage
+
+    %%%% Épigraphe
+    
+
+    \begin{center}
+        % {\huge \textbf{Épigraphe}}
+        \chapter*{Épigraphe}
+        \addcontentsline{toc}{chapter}{Épigraphe}
+        \vspace{50pt}
+         "Celui qui agit d'une main lâche devient pauvre, mais la main des diligents enrichit."
+        \begin{flushright}
+            Proverbes 10:4, Bible Darby .
+        \end{flushright}
+    \end{center}
+
+    
+    %%%%% Dédicace
+
+    \chapter*{Dédicace}
+    \addcontentsline{toc}{chapter}{Dédicace}
+    
+    \begin{em}
+        À mes très chers parents MBOLELA WA KANYANA Patrick \-et CIBOLA Agnes.
+        \\
+        À mes frères MUKADI MBOLELA Serges, NSONA MBOLELA Cedrick, MUKENGESHAYI MBOLELA Idriss,
+        NGOY MBOLELA Daniel et mes sœurs BILONDA MBOLELA Irene, NGALULA MBOLELA Rachel.
+        \\
+        À ma dulcinée FATIMA FURAHA Espérance.    
+    \end{em}
+        
+    
+
+    %%%%%% Remerciements
+    
+    \chapter*{Remerciements}
+    \addcontentsline{toc}{chapter}{Remerciements}
+    
+
+    Arrivé au terme de notre cycle de formation d’Ingénieur Technicien à l’Ecole Supérieure d’Informatique Salama, 
+    E.S.I.S en sigle, il est de notre devoir d’exprimer notre gratitude aux personnes qui nous ont aidé à 
+    arriver là où nous en sommes aujourd’hui et à réaliser ce travail.
+    \\
+    C’est ainsi qu’en premier lieu, nous remercions le seigneur Dieu.
+    \\
+    
+    Nos remerciements s’adressent à tout le corps administratif et professoral de l’Ecole
+    Supérieure d’Informatique Salama pour avoir concouru à notre formation.
+    \\
+
+    De manière particulière au Père KAMIBA Isaac et à Monsieur MUKANDA KENGWE Henrique,
+    en leurs qualités respectives de Directeur et Co\-directeur de notre travail.
+    \\
+
+    À mes très chers parents MBOLELA Patrick et CIBOLA Agnes.
+    \\
+
+    À mon mentor le pasteur Roland DALO.
+    
+
+    À mes frères MUKADI MBOLELA Serges, NSONA MBOLELA Cedrick, MUKENGESHAYI MBOLELA Idriss,
+    NGOY MBOLELA Daniel et mes sœurs BILONDA MBOLELA Irene, NGALULA MBOLELA Rachel.
+    \\
+
+    À tous nos compagnons de lutte avec qui nous avons passé notre parcours
+    académique. Allusion faite à : BILEU KAPEPULA Shekina, KYUNGU LUPUNDU Dan, ILUNGA LUBABA Nathan, MANANG KAFUTSHI Elsa, KASY NDIJI Laura, 
+    AMPIRE BIGOMOKERO Eric et à toute la promotion 2019-2020 de G3 Génie Logiciel.
+    \\
+
+    À mes amis : NGALULA KALENDA Jenny, NGOIE MULOLO Carel et BILEU KAPEPULA Shekina.
+    \\
+
+    À tous mes frères et sœurs, neveux et nièces, amis et connaissances dont les noms
+    ne sont pas cités, mais que nous portons chaleureusement dans notre cœur.
+    Trouvez ici, l’expression de ma profonde gratitude.
+
+    \newpage
+
+    %%%%%% Liste des figures
+    \listoffigures
+    \newpage
+
+    %%%%%% Liste des tableaux
+    \listoftables
+    \newpage
+
+    %%%%% Table des matières
+    \tableofcontents
+    \newpage
+
+    %%%%% Avant-Propos
+    \chapter*{Avant-Propos}
+    \addcontentsline{toc}{chapter}{Avant-propos}
+    Ce travail rentre dans le cadre de l’obtention du diplôme d'ingénieur en Génie Logiciel. 
+    Il montrera comment nous sommes parvenus aa trouver une solution à l'utilisation du Fluent Design lors du développement des applications mobiles. L’idée de ce travail de fin de cycle est venue du constat que les développeurs passent beaucoup à concevoir des interfaces graphiques des applications, mais qui, souvent ne respectant les principes d'ergonomie.
+    
+    
+    En Effet, depuis 2018, l'utilisation de Flutter semble augmenter d'une façon étonnante, les développeurs migre de plus en plus vers l'utilisation de Flutter à cause de sa facilite en conception mobile moderne. 
+    Flutter est devenu la nouvelle solution de developpement des applications mobiles soit Android ou encore iOS. Entre Temps Flutter, apporte une expérience mobile plus simples et plus moderne dans l'utilisation des applications mobiles.
+    Ce travail se veut être une contribution devant permettre de mettre en relief les différents obstacles, mais aussi les avantages d'utilisation de Fluent Design avec Flutter. Ainsi, une bibliothèque est proposée pour lever ces obstacles, en particulier sur Android et sur iOS.
+    
+    
+    Des difficultés n’ont pas manqué. Elles concernent particulièrement la disponibilité de données fiables et actuelles. Elles concernent également la disponibilité des designers qui prennent les décisions dans la conception des applications mobiles pour la réalisation d’interview. Cette dernière situation nous a obligé à nous contenter des entretiens informels que nous avons pu avoir avec quelques spécialistes.
+
+    \vspace{20px}
+    \begin{flushright}
+        Ce document a été traité avec \LaTeX
+    \end{flushright}
+    
+    %%%%%% Introductio
+    \chapter*{Introduction}
+    \addcontentsline{toc}{chapter}{Introduction}
+
+        \section*{Problématique}
+        \addcontentsline{toc}{section}{Problématique}
+
+        De nos jours, les utilisateurs de téléphones portables attendent de leurs applications un beau design, des animations fluides et de grandes performances. De plus en plus avec le développement en intégration continue qui oblige aux entreprises ou des startups des développement des applications de publier d’une manière constante les mises a jours .
+
+        Entre temps pour permettre aux utilisateurs des applications mobiles d’avoir plus des facilité et plus d'intuition, de grandes Firmes telle que Microsoft, Google ou Samsung font des études approfondies sur le comportement humains pour savoir comment ils réagissent face une applications mobiles, Comment ils comprennent différentes icônes, comment ils déplacent leurs doigts sur l'écran , comment ils réagissent devant certaines couleurs.
+        
+        Depuis Décembre 2019, Microsoft a lancé "Fluent Design System",un ensemble des principes fondamentaux de Design pour aider les concepteurs et développeurs à construire et concevoir des produits pour leur clients  visant à créer de la simplicité et de la cohérence grâce à un système de conception partagé et ouvert sur toutes les plateformes.
+        
+        Fluent Design est un système de design collective et ouverte qui garantit que les personnes, les équipes et leurs produits disposent des composants et des processus fondamentaux pour créer des expériences utilisateurs cohérentes sur toutes les plateformes.
+        
+        Les problèmes que nous avons rencontré est que les développeurs manque du code qui contient l’ensemble des principes et des outils ( tels que la typographie, les couleurs, Les contrôles )  qui permet d'implémenter le Fluent Design.
+        
+
+
 
 \end{document}
