@@ -18,3 +18,4 @@
 \contentsline {section}{Techniques}{12}{section*.20}% 
 \contentsline {section}{Etat de l’art}{12}{section*.21}% 
 \contentsline {section}{Délimitation du travail}{13}{section*.22}% 
+\contentsline {section}{Subdivision du travail}{13}{section*.23}% 

@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.2.7)  12 MAR 2020 05:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.2.7)  12 MAR 2020 06:40
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.tex
-(/home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.tex
+**Fluent_Design.tex
+(./Fluent_Design.tex
 LaTeX2e <2019-10-01> patch level 1
 (/usr/share/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2019/08/27 v1.4j Standard LaTeX document class
@@ -23,17 +22,22 @@ File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2019/10/15 3.35 The Babel package
- (/usr/share/texmf-dist/tex/generic/babel/switch.def
+
+(/usr/share/texmf-dist/tex/generic/babel/switch.def
 File: switch.def 2019/10/15 3.35 Babel switching mechanism
-) (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf
+)
+(/usr/share/texmf-dist/tex/generic/babel-french/french.ldf
 Language: french 2019/09/07 v3.5f French support from the babel system
- (/usr/share/texmf-dist/tex/generic/babel/babel.def
+
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2019/10/15 3.35 Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen103
- (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@dirlevel=\count90
 )
 \l@acadian = a dialect from \language\l@french 
@@ -59,19 +63,25 @@ Package babel Info: Making ? an active character on input line 422.
 \leftmarginFB=\dimen109
 \parindentFFN=\dimen110
 \FBfnindent=\dimen111
-)) (/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+))
+(/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
-) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+)
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
- (/usr/share/texmf-dist/tex/latex/base/t1enc.def
+
+(/usr/share/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+))
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
-) (/usr/share/texmf-dist/tex/latex/lm/lmodern.sty
+)
+(/usr/share/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -105,7 +115,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
+)
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2019/10/10 v2.7c Micro-typographical refinements (RS)
 \MT@toks=\toks18
 \MT@count=\count99
@@ -113,31 +124,40 @@ LaTeX Info: Redefining \textls on input line 790.
 \MT@outer@kern=\dimen112
 LaTeX Info: Redefining \textmicrotypecontext on input line 1347.
 \MT@listname@count=\count100
- (/usr/share/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2019/10/10 v2.7c Definitions specific to pdftex (RS)
+
 LaTeX Info: Redefining \lsstyle on input line 914.
 LaTeX Info: Redefining \lslig on input line 914.
 \MT@outer@space=\skip43
 )
 Package microtype Info: Loading configuration file microtype.cfg.
- (/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2019/10/10 v2.7c microtype main configuration file (RS)
-)) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+))
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/10/08 v1.3c Standard LaTeX Graphics (DPC,SPQR)
- (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
- (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
-) (/usr/share/texmf-dist/tex/latex/tools/array.sty
+)
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen115
 \ar@mcellbox=\box27
@@ -146,11 +166,15 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \extratabsurround=\skip44
 \backup@length=\skip45
 \ar@cellbox=\box28
-) (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2019/09/28 v7.00a Hypertext links for LaTeX
- (/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
- (/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -164,13 +188,15 @@ Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO)
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
 Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
 Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
 )
@@ -183,23 +209,28 @@ Package atveryend Info: \enddocument detected (standard20110627).
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-) (/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-) (/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-) (/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen117
 \Hy@linkcounter=\count101
 \Hy@pagecounter=\count102
- (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2019/09/28 v7.00a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count103
- (/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4540.
@@ -210,7 +241,8 @@ Package hyperref Info: Backreferencing OFF on input line 4560.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4793.
 \c@Hy@tempcnt=\count104
- (/usr/share/texmf-dist/tex/latex/url/url.sty
+
+(/usr/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -233,16 +265,20 @@ LaTeX Info: Redefining \pageref on input line 6497.
 \c@Hfootnote=\count108
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2019/09/28 v7.00a Hyperref driver for pdfTeX
 \Fld@listcount=\count109
 \c@bookmark@seq@number=\count110
- (/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
 )
 \Hy@SectionHShift=\skip46
-) (/home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.aux)
+)
+(./Fluent_Design.aux)
 \openout1 = `Fluent_Design.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -259,7 +295,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 16.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 16
+.
  (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -277,9 +314,12 @@ LaTeX Info: Redefining \showhyphens on input line 16.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
- (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
-) (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count111
 \scratchdimen=\dimen121
@@ -294,21 +334,28 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 \everyMPtoPDFconversion=\toks21
 ) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
- (/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
- (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 \AtBeginShipoutBox=\box30
 Package hyperref Info: Link coloring OFF on input line 16.
- (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
- (/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count117
@@ -316,42 +363,34 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 16.
 LaTeX Info: Redefining \pageref on input line 16.
 LaTeX Info: Redefining \nameref on input line 16.
+
+(./Fluent_Design.out) (./Fluent_Design.out)
 \@outlinefile=\write3
 \openout3 = `Fluent_Design.out'.
 
-<images/logo.png, id=4, 442.7742pt x 655.248pt>
+<images/logo.png, id=76, 442.7742pt x 655.248pt>
 
-/home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.tex:40: Illegal unit of measure (pt inserted).
+! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
 l.40 ...ncludegraphics[width=100]{images/logo.png}
                                                   
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-/home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.tex:40: Illegal unit of measure (pt inserted).
+? 
+! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
 l.40 ...ncludegraphics[width=100]{images/logo.png}
                                                   
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
+? 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package pdftex.def Info: images/logo.png  used on input line 40.
 (pdftex.def)             Requested size: 100.0pt x 147.98433pt.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/jeanluckabulu/Documents/TFC/fluent-design/images/logo.png>]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/logo.png>]pdfTeX 
+warning (ext4): destination with the same identifier (name{page.1}) has been al
+ready used, duplicate ignored
 <to be read again> 
                    \relax 
 l.97     \newpage
@@ -376,82 +415,99 @@ Underfull \hbox (badness 10000) in paragraph at lines 160--170
 
 [5
 
-]
+] (./Fluent_Design.lof)
 \tf@lof=\write4
 \openout4 = `Fluent_Design.lof'.
 
  [6
 
-]
+] (./Fluent_Design.lot)
 \tf@lot=\write5
 \openout5 = `Fluent_Design.lot'.
 
  [7
 
-]
+] (./Fluent_Design.toc
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 7
+.
+
+(/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 7
+.
+
+(/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+7.
+
+(/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+7.
+
+(/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 7.
+)
 \tf@toc=\write6
 \openout6 = `Fluent_Design.toc'.
 
  [8
 
-]
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 201.
- (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 201.
- (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 201.
- (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 201.
- (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 201.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 201.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 201.
- [9
+] [9
 
 ] [10
 
 ] [11] [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 345.
- [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 345.
- (/home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 345.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 345.
+Underfull \hbox (badness 10000) in paragraph at lines 347--349
 
+ []
 
-Package rerunfilecheck Warning: File `Fluent_Design.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Fluent_Design.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  56DB95CE20E1CE1D8C416108C231CA01;1054.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 345.
+[13]
+! Misplaced alignment tab character &.
+<argument> Chapitre 4: Conception &
+                                    Implémentation d'une application 
+l.364 ...ion & Implémentation d'une application }
+                                                  
+? 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 373.
+[14]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 373.
+ (./Fluent_Design.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 373.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 373.
+Package rerunfilecheck Info: File `Fluent_Design.out' has not changed.
+(rerunfilecheck)             Checksum: 326E4E0D653233761C6D6C632791136D;1124.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 373.
  ) 
 Here is how much of TeX's memory you used:
- 8379 strings out of 492167
- 128480 string characters out of 6131559
- 263695 words of memory out of 5000000
- 12532 multiletter control sequences out of 15000+600000
+ 8409 strings out of 492167
+ 128482 string characters out of 6131559
+ 263799 words of memory out of 5000000
+ 12551 multiletter control sequences out of 15000+600000
  68123 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 33i,5n,42p,519b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
-Output written on /home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.pdf (14 pages, 526052 bytes).
+ 33i,5n,42p,471b,467s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fo
+nts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmb
+xi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/tex
+mf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/sha
+re/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
+Output written on Fluent_Design.pdf (15 pages, 531235 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 116 compressed objects within 2 object streams
- 42 named destinations out of 1000 (max. 500000)
- 18438 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 222 PDF objects out of 1000 (max. 8388607)
+ 194 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 18582 words of extra memory for PDF output out of 20736 (max. 10000000)
 
