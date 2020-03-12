@@ -130,6 +130,8 @@ INPUT /usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmr8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
 INPUT /home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.aux
 INPUT /home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.out
 INPUT /home/jeanluckabulu/Documents/TFC/fluent-design/Fluent_Design.out
