@@ -14,3 +14,5 @@
 \contentsline {subsection}{Intérêt du sujet}{12}{section*.16}% 
 \contentsline {subsubsection}{Intérêt Personnel}{12}{section*.17}% 
 \contentsline {subsubsection}{Intérêt scientifique}{13}{section*.18}% 
+\contentsline {section}{Méthode}{13}{section*.19}% 
+\contentsline {section}{Techniques}{13}{section*.20}% 
