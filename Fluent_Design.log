@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.2.7)  12 MAR 2020 07:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.2.7)  12 MAR 2020 07:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -281,36 +281,36 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (./Fluent_Design.aux)
 \openout1 = `Fluent_Design.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 16
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 18
 .
  (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \degres on input line 16.
-LaTeX Info: Redefining \dots on input line 16.
-LaTeX Info: Redefining \up on input line 16.
-LaTeX Info: Redefining \microtypecontext on input line 16.
+LaTeX Info: Redefining \degres on input line 18.
+LaTeX Info: Redefining \dots on input line 18.
+LaTeX Info: Redefining \up on input line 18.
+LaTeX Info: Redefining \microtypecontext on input line 18.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 16.
+LaTeX Info: Redefining \showhyphens on input line 18.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -350,7 +350,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box30
-Package hyperref Info: Link coloring OFF on input line 16.
+Package hyperref Info: Link coloring OFF on input line 18.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -360,31 +360,31 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count117
 )
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 18.
+LaTeX Info: Redefining \pageref on input line 18.
+LaTeX Info: Redefining \nameref on input line 18.
 
 (./Fluent_Design.out) (./Fluent_Design.out)
 \@outlinefile=\write3
 \openout3 = `Fluent_Design.out'.
 
-<images/logo.png, id=84, 442.7742pt x 655.248pt>
+<images/logo.png, id=88, 442.7742pt x 655.248pt>
 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.40 ...ncludegraphics[width=100]{images/logo.png}
+l.42 ...ncludegraphics[width=100]{images/logo.png}
                                                   
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.40 ...ncludegraphics[width=100]{images/logo.png}
+l.42 ...ncludegraphics[width=100]{images/logo.png}
                                                   
 ? 
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 40.
+Package pdftex.def Info: images/logo.png  used on input line 42.
 (pdftex.def)             Requested size: 100.0pt x 147.98433pt.
 [1
 
@@ -393,23 +393,23 @@ warning (ext4): destination with the same identifier (name{page.1}) has been al
 ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.97     \newpage
+l.99     \newpage
                   [1] [2] [3
 
 ] [4
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 136--142
+Underfull \hbox (badness 10000) in paragraph at lines 138--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--159
+Underfull \hbox (badness 10000) in paragraph at lines 145--161
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--170
+Underfull \hbox (badness 10000) in paragraph at lines 162--172
 
  []
 
@@ -472,7 +472,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ! Misplaced alignment tab character &.
 <argument> Chapitre 4: Conception &
                                     Implémentation d'une application 
-l.366 ...ion & Implémentation d'une application }
+l.368 ...ion & Implémentation d'une application }
                                                   
 ? 
 [13] [14]
@@ -481,26 +481,26 @@ Chapitre 1.
 
 ]
 
-LaTeX Warning: Empty `thebibliography' environment on input line 406.
+LaTeX Warning: Empty `thebibliography' environment on input line 409.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 407.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 410.
 [16
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 407.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 410.
  (./Fluent_Design.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 407.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 407.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 410.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 410.
 Package rerunfilecheck Info: File `Fluent_Design.out' has not changed.
-(rerunfilecheck)             Checksum: 5077AB8269B82D4F56C7554272F4EF77;1273.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 407.
+(rerunfilecheck)             Checksum: 25A893D67243140462BC4E92AB3E5040;1327.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 410.
  ) 
 Here is how much of TeX's memory you used:
- 8416 strings out of 492167
- 128551 string characters out of 6131559
- 263799 words of memory out of 5000000
- 12553 multiletter control sequences out of 15000+600000
- 68123 words of font info for 80 fonts, out of 8000000 for 9000
+ 8419 strings out of 492167
+ 128584 string characters out of 6131559
+ 263828 words of memory out of 5000000
+ 12554 multiletter control sequences out of 15000+600000
+ 68214 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  33i,5n,42p,471b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fo
@@ -509,10 +509,10 @@ xi10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/tex
 mf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/publ
 ic/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/sha
 re/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
-Output written on Fluent_Design.pdf (17 pages, 532919 bytes).
+Output written on Fluent_Design.pdf (17 pages, 533213 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
- 212 compressed objects within 3 object streams
+ 247 PDF objects out of 1000 (max. 8388607)
+ 216 compressed objects within 3 object streams
  49 named destinations out of 1000 (max. 500000)
- 18598 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 18606 words of extra memory for PDF output out of 20736 (max. 10000000)
 
